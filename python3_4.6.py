@@ -15,3 +15,5 @@ def computepay(h,r):
     return print('Pay' , xp)
 
 computepay(hours, rate)
+
+#learning how to commit to github
