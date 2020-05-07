@@ -32,5 +32,5 @@ while True:
         else:
             print('Invalid input')
 #returns the maximum and minimum
-print("Maximum", largest)
-print('Minimum', smallest)
+print("Maximum is", largest)
+print('Minimum is', smallest)
